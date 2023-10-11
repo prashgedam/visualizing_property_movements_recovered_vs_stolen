@@ -1,4 +1,4 @@
-# Visualizing Property Movements: Recovered Vs. Stolen
+# Visualizing Property Movements: Recovered Vs. Stolen..
 ## Creating a Tableau project to visualize property movements, specifically distinguishing between recovered and stolen properties, involves using data visualization techniques to present the movement of properties in an insightful and clear manner. Below is a summary of how such a project might be structured and what elements it would include:
 
    ## Data Collection and Preparation:
