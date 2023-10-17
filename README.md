@@ -3,7 +3,7 @@
 
    ## Data Collection and Preparation:
         Gather data on property movements, including details on whether the property was recovered or stolen, relevant timestamps, location information, and other relevant attributes.
-        Clean and preprocess the data to remove any inconsistencies, duplicates, or irrelevant information.
+        Clean and preprocess the data to remove any inconsistencies, duplicates or irrelevant information.
 
  ## Data Integration and Data Model:
         Integrate the cleaned data into Tableau or any other preferred data visualization tool.
