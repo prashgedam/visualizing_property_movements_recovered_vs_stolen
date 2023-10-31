@@ -1,4 +1,4 @@
-# Visualizing Property Movements: Recovered Vs. Stolen..
+# Visualizing Property Movements: Recovered Vs. Stolen...
 
 [![Example Image](https://github.com/prashgedam/visualizing_property_movements_recovered_vs_stolen/blob/main/Property%20Stolen%20and%20Recovered.png)](https://public.tableau.com/app/profile/prashnnaki.gedam/viz/VisualizingPropertyMovementsRecoveredvs_Stolen/PropertyStolenandRecovered)
 
