@@ -29,7 +29,7 @@
             Use a bubble chart to represent both recovered and stolen properties based on attributes like value or quantity.
 
   ## Interactive Elements:
-        Incorporate interactivity in the visualizations to allow users to filter and drill down into the data based on various parameters (e.g., date range, location, property type).
+        Incorporate interactivity in the visualizations to allow users to filter and drill down into the data based on various parameters (e.g. date range, location, property type).
         Implement tooltips to provide additional information when users hover over data points.
 
    ## Dashboard Creation:
